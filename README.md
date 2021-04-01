@@ -8,3 +8,6 @@ when the function is fed in the order
 
 and returns
 (FirstName, LastName)
+
+More info on python: https://www.python.org/
+Python docs: https://docs.python.org/3/
